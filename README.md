@@ -83,6 +83,9 @@ Tableau
 Data Visualization  
 Business Analytics  
 
+🔗 Project Repository 
+https://github.com/alihamza2912/Amazon-Sales-Dashboard-Tableau
+
 ---
 
 ## 3️⃣ Super Store Sales Dashboard – Power BI
