@@ -101,7 +101,10 @@ Developed a **Power BI dashboard** to analyze sales, profit, and forecasting.
 ### Tools
 Power BI  
 DAX  
-Data Modeling  
+Data Modeling
+
+🔗 Project Repository
+https://github.com/alihamza2912/Super-Store-Sales-Dashboard
 
 ---
 
