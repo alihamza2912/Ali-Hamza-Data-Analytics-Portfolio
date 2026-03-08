@@ -119,7 +119,7 @@ https://github.com/alihamza2912/Super-Store-Sales-Dashboard
 
 # 🏆 Activities & Achievements
 
-✔ Member – IEEE JHSB , UBA-JHSB , Geeks for Geeks-JH|
+✔ Member – IEEE JHSB , UBA-JHSB , Geeks for Geeks-JH
 ✔ Volunteer – TEDx Jamia Hamdard  
 ✔ Volunteer – LedBy Foundation  
 ✔ Participant – Virtual Lab Workshop (IIT Delhi Collaboration)  
